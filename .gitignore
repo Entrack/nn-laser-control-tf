@@ -1,0 +1,11 @@
+plan.txt
+dqn/
+backups/
+measurements/
+results/
+non_git/
+*.pyc
+*.cfg
+*.zip
+__pycache__/
+.idea/
